@@ -1,0 +1,1 @@
+var raceName = "レース名";
